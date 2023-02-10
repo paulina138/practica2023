@@ -1,2 +1,4 @@
 # practica2023
-hola
+practica en ISC del itssna 2023  
+
+autor paulina mendiola ortega 
